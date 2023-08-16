@@ -76,7 +76,7 @@
     "braces": "^2.3.1",
     "decompress-zip": "^0.3.2",
     "electron": "^18.3.7",
-    "electron-packager": "^12.1.1",
+    "electron-packager": "^17.1.1",
     "eslint": "^4.18.2",
     "eslint-plugin-react": "3.16.1",
     "grunt": "^1.5.3",
